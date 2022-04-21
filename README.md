@@ -1,6 +1,6 @@
 # Spotify Tinder
 
-Find people with similiar interests in music and meet up!
+Find people with similar interests in music and meet up!
 
 # Demo
 
